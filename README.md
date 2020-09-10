@@ -12,7 +12,7 @@ Proyectos de 42Madrid
 |Minishell |   | C project |
 |ft_service |   | Kubernetes - Docker |
 | Philosophers | 100 | C project |
-| Piscine C++ | 100 | 3/8 - C++ projects |
+| Piscine C++ | 100 | 3/9 - C++ projects |
 | ft_container | | C++ project |
 | web_server | | C++ project |
 |transcendence | | Final project |
