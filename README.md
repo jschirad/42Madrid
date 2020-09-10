@@ -14,3 +14,5 @@ Proyectos de 42Madrid
 | Philosophers | 100 | C project |
 | Piscine C++ | | 8/8 C++ projects |
 | ft_container | | C++ project |
+| web_server | | C++ project |
+|transcendence | | Final project |
