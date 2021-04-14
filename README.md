@@ -9,8 +9,8 @@ Proyectos de 42Madrid
 | ft_server | 100 | Docker project |
 | Cub_3D | 104 | Raycasting - C project |
 | libasm | 100 | Assambler project |
-|Minishell |   | C project |
-|ft_service |   | Kubernetes - Docker |
+|Minishell | 100 | C project |
+|ft_service | 100 | Kubernetes - Docker |
 | Philosophers | 100 | C project |
 | Piscine C++ | 100 | 3/9 - C++ projects |
 | ft_container | | C++ project |
